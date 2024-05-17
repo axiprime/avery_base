@@ -57,6 +57,7 @@ This repository provides basic examples of OAuth2 integration for Twitch and Dis
    - Update the following in the `.env` file with your MySQL database credentials:
      ```env
      MYSQL_HOST="your_mysql_host"
+     MYSQL_PORT="your_mysql_port"
      MYSQL_USER="your_mysql_user"
      MYSQL_PASSWORD="your_mysql_password"
      MYSQL_DATABASE="your_mysql_database"
