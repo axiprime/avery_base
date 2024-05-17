@@ -9,7 +9,7 @@
         "api_endpoint":"https://api.twitch.tv/helix",
         "callback":"twitchcallback",
         "scope":"chat:edit chat:read user:bot user:read:chat user:write:chat whispers:read whispers:edit channel:bot channel:moderate",
-        "Irc_chat":false,
+        "Irc_chat":true,
         "Irc_Host": "irc-ws.chat.twitch.tv",
         "Irc_Port": "443",
         "Irc_login": "axiprime",
@@ -42,10 +42,5 @@
             "USERSTATE": true,
             "WHISPER": true
         }
-    },
-    "spotify":{
-        "api_endpoint":"https://api.spotify.com/v1",
-        "callback":"spotifycallback",
-        "scope":"user-read-email"
     }
 }
