@@ -1,6 +1,4 @@
-# Few basic exemples about OAuth2 for Twitch and Discord, Twitch IRC(Websocket) connection, Discord.js version 14.15.1 linked to a MySQL database.
-
-# OAuth2 Examples for Twitch and Discord, Twitch IRC (WebSocket) Connection, and Discord.js
+# OAuth2 Examples for Twitch and Discord, Twitch IRC (WebSocket) Connection, Discord.js and MySQL
 
 This repository provides basic examples of OAuth2 integration for Twitch and Discord, establishing a Twitch IRC (WebSocket) connection, and using Discord.js version 14.15.1 linked to a MySQL database.
 
