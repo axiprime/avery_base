@@ -3,7 +3,7 @@
 # Make sure you have update the .env-exemple file to .env
 
 [!IMPORTANT]
-## Twitch services => You require to create and application via the developer platform : https://dev.twitch.tv/
+Twitch services => You require to create and application via the developer platform : https://dev.twitch.tv/
 * OAuth2
  - Set the redirection ( Exemple : http://localhost:3000/twitchcallback )
  - Select Website Integration as the category.
@@ -13,7 +13,7 @@
  - Then save
  
 [!IMPORTANT]
-## Discord services => You require to create an application via their developers platform : https://discord.com/developers/applications
+Discord services => You require to create an application via their developers platform : https://discord.com/developers/applications
 * OAuth2
  - Set redirects in tab OAuth2. ( Exemple : http://localhost:3000/discordcallback )
  - Update the DISCORD_CLIENT_ID in the .env file with the client identification from the application.
